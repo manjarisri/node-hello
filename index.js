@@ -4,7 +4,7 @@ const port2 = process.env.PORT2 || 3001;
 
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
-  const msg = 'Hello manjari'
+  const msg = 'Hello MANJARI'
   res.end(msg);
 });
 
