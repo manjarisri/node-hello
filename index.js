@@ -10,7 +10,7 @@ const server = http.createServer((req, res) => {
 
 const server2 = http.createServer((req, res) => {
 	res.statusCode = 200;
-	const msg2 = 'Hello agaim from node\n'
+	const msg2 = 'Hello Jenkins'
 	res.end(msg2);
 });
 
