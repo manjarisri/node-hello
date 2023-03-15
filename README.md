@@ -2,6 +2,8 @@
 
 Simple node.js app that servers "hello world"
 
+welcome to jenkins
+
 Great for testing simple deployments to the cloud
 
 ## Create a .tgz file
